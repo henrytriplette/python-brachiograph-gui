@@ -1,0 +1,4 @@
+Pillow
+pysftp
+PySimpleGUI
+cairosvg

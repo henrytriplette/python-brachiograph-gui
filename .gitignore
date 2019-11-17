@@ -1,0 +1,4 @@
+venv/*
+BrachioGraph/*
+images/*
+__pycache__/*
