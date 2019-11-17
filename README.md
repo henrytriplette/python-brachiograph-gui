@@ -9,7 +9,7 @@
   </a>
 </p>
 
-![GUI Screenshot](https://github.com/henrytriplette/python-brachiograph-gui/tree/master/Docs/screens/screenshot.png)
+![GUI Screenshot](https://github.com/henrytriplette/python-brachiograph-gui/raw/master/Docs/screens/screenshot.png)
 
 > Simple GUI for BrachioGraph pen plotter
 
