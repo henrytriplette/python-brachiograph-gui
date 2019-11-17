@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Brachiograph GUI 👋</h1>
+<h1 align="center">Welcome to Brachiograph GUI</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/henrytriplette/python-brachiograph-gui/tree/master/Docs" target="_blank">
@@ -8,6 +8,8 @@
     <img alt="Twitter: henrytriplette" src="https://img.shields.io/twitter/follow/henrytriplette.svg?style=social" />
   </a>
 </p>
+
+![GUI Screenshot](https://github.com/henrytriplette/python-brachiograph-gui/tree/master/Docs/screens/screenshot.png)
 
 > Simple GUI for BrachioGraph pen plotter
 
